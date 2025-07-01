@@ -15,3 +15,6 @@ javac src/ChatBot.java -d bin/
 
 # Run
 java -cp bin/ ChatBot
+
+
+I've added a screenshot of it on ChatBot.jpg
